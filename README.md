@@ -4,4 +4,5 @@
 
 ![picture1](https://github.com/shahriar00/Travel-App-UI/assets/70763173/6340c61b-9e0a-43dd-8303-f686064c0620)
 
+![picture2](https://github.com/shahriar00/Travel-App-UI/assets/70763173/630df311-3a27-4f2b-8f43-40d25f86ff58)
 
